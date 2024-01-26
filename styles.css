@@ -1,0 +1,30 @@
+.gallery {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 1rem;
+}
+
+.gallery h1 {
+	font-size: 1rem;
+	margin-bottom: 3rem;
+}
+
+.destination {
+	margin-bottom: 3rem;
+}
+
+.destination h2 {
+	font-size: 1rem;
+	margin-left: 1rem;
+}
+
+.destination img {
+	width: 30%;
+	height: auto;
+	margin-left: 1rem;
+}
+
+.destination p {
+	font-size: 1.2rem;
+}
